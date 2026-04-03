@@ -42,10 +42,10 @@ An AI-powered full-stack web application that predicts the risk of diseases usin
 ## 📂 Project Structure
 
 ```
-AI Health Disease Detection/
+AI-Disease_Risk_Prediction-System/
 │── disease-risk-backend/
-│── frontend/
-│── ML models/
+│── Frontend/
+│── ml-model/
 │── README.md
 ```
 
@@ -57,7 +57,7 @@ AI Health Disease Detection/
 
 ```bash
 git clone https://github.com/Yogita2409/AI-Disease_Risk_Prediction-System.git
-cd ai-health-disease-detection
+cd AI-Disease_Risk_Prediction-System
 ```
 
 ### 2️⃣ Backend Setup
@@ -71,18 +71,10 @@ npm start
 ### 3️⃣ Frontend Setup
 
 ```bash
-cd frontend
+cd Frontend
 npm install
 npm run dev
 ```
-
-### 4️⃣ Run ML Model (if separate)
-
-```bash
-python app.py
-```
-
----
 
 ## 🧠 How It Works
 
