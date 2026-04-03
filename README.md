@@ -103,9 +103,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Yogita**
-**Archita**
-**Navya**
+**Yogita, Archita Garg and Navya Bhatia**
 
 ---
-* or tailor it **exactly for your viva/teacher questions** 😄
